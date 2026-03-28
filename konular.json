@@ -1,1 +1,103 @@
-
+{
+  "sinavlar": {
+    "on_lisans": [
+      {
+        "ders": "Türkçe",
+        "konular": [
+          {"baslik": "Sözcükte Anlam", "onem": 4},
+          {"baslik": "Cümlede Anlam", "onem": 5},
+          {"baslik": "Paragrafta Ana Düşünce ve Yardımcı Düşünce", "onem": 5},
+          {"baslik": "Paragraf Soru Teknikleri ve Hız", "onem": 5},
+          {"baslik": "Ses Bilgisi", "onem": 3},
+          {"baslik": "Yazım Kuralları", "onem": 4},
+          {"baslik": "Noktalama İşaretleri", "onem": 4},
+          {"baslik": "Sözcük Türleri (İsim, Sıfat, Zamir vb.)", "onem": 4},
+          {"baslik": "Cümlenin Ögeleri", "onem": 3},
+          {"baslik": "Sözcük Yapısı ve Ekler", "onem": 3},
+          {"baslik": "Anlatım Bozuklukları", "onem": 2},
+          {"baslik": "Sözel Mantık", "onem": 5}
+        ]
+      },
+      {
+        "ders": "Matematik ve Geometri",
+        "konular": [
+          {"baslik": "Temel Kavramlar ve İşlem Yeteneği", "onem": 5},
+          {"baslik": "Bölme - Bölünebilme ve EBOB-EKOK", "onem": 3},
+          {"baslik": "Rasyonel ve Ondalık Sayılar", "onem": 5},
+          {"baslik": "Üslü ve Köklü Sayılar", "onem": 4},
+          {"baslik": "Mutlak Değer ve Basit Eşitsizlikler", "onem": 3},
+          {"baslik": "Çarpanlara Ayırma ve Özdeşlikler", "onem": 3},
+          {"baslik": "Oran-Orantı", "onem": 4},
+          {"baslik": "Sayı ve Kesir Problemleri", "onem": 5},
+          {"baslik": "Yaş, Yüzde, Kar-Zarar Problemleri", "onem": 5},
+          {"baslik": "Hız ve İşçi Problemleri", "onem": 3},
+          {"baslik": "Grafik ve Tablo Yorumlama", "onem": 5},
+          {"baslik": "Sayısal Mantık Soruları", "onem": 5},
+          {"baslik": "Geometri: Üçgenler ve Açılar", "onem": 4},
+          {"baslik": "Geometri: Çokgenler ve Katı Cisimler", "onem": 2}
+        ]
+      },
+      {
+        "ders": "Tarih",
+        "konular": [
+          {"baslik": "İslamiyet Öncesi Türk Tarihi", "onem": 3},
+          {"baslik": "İlk Müslüman Türk Devletleri", "onem": 3},
+          {"baslik": "Osmanlı Kültür ve Medeniyet", "onem": 5},
+          {"baslik": "Osmanlı Kuruluş, Yükselme ve Duraklama", "onem": 3},
+          {"baslik": "XVIII. ve XIX. Yüzyıl Osmanlı Tarihi", "onem": 4},
+          {"baslik": "XX. Yüzyıl Başında Osmanlı ve I. Dünya Savaşı", "onem": 4},
+          {"baslik": "Kurtuluş Savaşı Hazırlık Dönemi", "onem": 5},
+          {"baslik": "Kurtuluş Savaşı Cepheleri ve Antlaşmalar", "onem": 5},
+          {"baslik": "Atatürk İnkılapları ve İlkeleri", "onem": 5},
+          {"baslik": "Atatürk Dönemi Türk Dış Politikası", "onem": 3},
+          {"baslik": "Çağdaş Türk ve Dünya Tarihi", "onem": 3}
+        ]
+      },
+      {
+        "ders": "Coğrafya",
+        "konular": [
+          {"baslik": "Türkiye'nin Coğrafi Konumu", "onem": 4},
+          {"baslik": "Türkiye'nin Yer Şekilleri ve Dağlar", "onem": 5},
+          {"baslik": "Türkiye'nin İklimi ve Bitki Örtüsü", "onem": 5},
+          {"baslik": "Türkiye'de Nüfus ve Yerleşme", "onem": 5},
+          {"baslik": "Türkiye'de Tarım ve Hayvancılık", "onem": 4},
+          {"baslik": "Madenler, Enerji Kaynakları ve Sanayi", "onem": 5},
+          {"baslik": "Ulaşım, Ticaret ve Turizm", "onem": 4},
+          {"baslik": "Bölgesel Kalkınma Projeleri", "onem": 3}
+        ]
+      },
+      {
+        "ders": "Vatandaşlık ve Güncel Bilgiler",
+        "konular": [
+          {"baslik": "Hukukun Temel Kavramları", "onem": 4},
+          {"baslik": "Devlet Biçimleri ve Demokrasi", "onem": 2},
+          {"baslik": "Anayasa Tarihi ve Temel Haklar", "onem": 3},
+          {"baslik": "Yasama (TBMM)", "onem": 5},
+          {"baslik": "Yürütme (Cumhurbaşkanlığı)", "onem": 5},
+          {"baslik": "Yargı Organları", "onem": 4},
+          {"baslik": "İdare Hukuku", "onem": 5},
+          {"baslik": "Güncel Bilgiler (Kültür, Sanat, Siyaset)", "onem": 5}
+        ]
+      }
+    ],
+    "ortaogretim": [
+      {
+        "ders": "Tarih",
+        "konular": [
+          {"baslik": "İlk Türk Devletleri", "onem": 3},
+          {"baslik": "Osmanlı Kültür ve Medeniyet", "onem": 4},
+          {"baslik": "Kurtuluş Savaşı Hazırlık", "onem": 5},
+          {"baslik": "Atatürk İnkılapları", "onem": 5}
+        ]
+      },
+      {
+        "ders": "Türkçe",
+        "konular": [
+          {"baslik": "Paragrafta Anlam", "onem": 5},
+          {"baslik": "Yazım ve Noktalama", "onem": 4},
+          {"baslik": "Dil Bilgisi Temel Konular", "onem": 3}
+        ]
+      }
+    ]
+  }
+}
